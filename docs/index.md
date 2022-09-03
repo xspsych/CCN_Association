@@ -24,8 +24,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 9月5号 | 陆春雷 |  [Human-centred mechanism design with Democratic AI]
-(https://www.nature.com/articles/s41562-022-01383-x) |
+| 9月5号 | 陆春雷 |  [Human-centred mechanism design with Democratic AI](https://www.nature.com/articles/s41562-022-01383-x) |
 
 
 <br/>
