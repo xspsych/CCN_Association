@@ -24,7 +24,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 9月5号 | 陆春雷 |  [Human-centred mechanism design with Democratic AI](https://www.nature.com/articles/s41562-022-01383-x) |
+| 9月12号 | 刘星宇 |  [A multifaceted gradient in human cerebellum of structural and functional development]([https://www.nature.com/articles/s41562-022-01383-x](https://www.nature.com/articles/s41593-022-01136-z)) |
 
 
 <br/>
@@ -74,6 +74,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:------|:-------|:------:|
+| 9月5号 | 陆春雷 |  [Human-centred mechanism design with Democratic AI](https://www.nature.com/articles/s41562-022-01383-x) |
 | 5月30号 |  马飞龙 |  [The Individualized Neural Tuning Model: Precise and generalizable cartography of functional architecture in individual brains](https://www.biorxiv.org/content/10.1101/2022.05.15.492022v1) |
 | 5月9号 | 徐云龙  | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons](https://www.nature.com/articles/s41467-021-26751-5)|
 | 5月2号 | 方泽鸣  | [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961)|
