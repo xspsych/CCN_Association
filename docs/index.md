@@ -24,7 +24,8 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 9月12号 | 刘星宇 |  [A multifaceted gradient in human cerebellum of structural and functional development]([https://www.nature.com/articles/s41562-022-01383-x](https://www.nature.com/articles/s41593-022-01136-z) |
+| 9月12号 | 刘星宇 |  [A multifaceted gradient in human cerebellum of structural and functional development](https://www.nature.com/articles/s41593-022-01136-z) |
+
 
 
 <br/>
